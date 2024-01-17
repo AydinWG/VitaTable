@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 04229f7a90c26184f980fc258d330495
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8162416598519327355
+    second: Falsche Richtung Sheet_0
+  - first:
+      213: 7787386818876796569
+    second: Falsche Richtung Sheet_1
+  - first:
+      213: 4509118121450287270
+    second: Falsche Richtung Sheet_2
+  - first:
+      213: 6862203214772902516
+    second: Falsche Richtung Sheet_3
+  - first:
+      213: -6672575866452431236
+    second: Falsche Richtung Sheet_4
+  - first:
+      213: 140369026631194860
+    second: Falsche Richtung Sheet_5
+  - first:
+      213: 1471849991594032739
+    second: Falsche Richtung Sheet_6
+  - first:
+      213: -784259706962418449
+    second: Falsche Richtung Sheet_7
+  - first:
+      213: -1158916283749758082
+    second: Falsche Richtung Sheet_8
+  - first:
+      213: -4086567948712208261
+    second: Falsche Richtung Sheet_9
+  - first:
+      213: 5178561702369896697
+    second: Falsche Richtung Sheet_10
+  - first:
+      213: 174785839936976569
+    second: Falsche Richtung Sheet_11
+  - first:
+      213: -7025247368248859793
+    second: Falsche Richtung Sheet_12
+  - first:
+      213: 6967097737568129979
+    second: Falsche Richtung Sheet_13
+  - first:
+      213: 2297509271777853479
+    second: Falsche Richtung Sheet_14
+  - first:
+      213: 3597493583563313281
+    second: Falsche Richtung Sheet_15
+  - first:
+      213: 8711885901908691836
+    second: Falsche Richtung Sheet_16
+  - first:
+      213: -148995245531929195
+    second: Falsche Richtung Sheet_17
+  - first:
+      213: -8497457491710877710
+    second: Falsche Richtung Sheet_18
+  - first:
+      213: 9105019728143112195
+    second: Falsche Richtung Sheet_19
+  - first:
+      213: 4876015039938865509
+    second: Falsche Richtung Sheet_20
+  - first:
+      213: 4496953774943960223
+    second: Falsche Richtung Sheet_21
+  - first:
+      213: 3717148517543483645
+    second: Falsche Richtung Sheet_22
+  - first:
+      213: 8165601140351924360
+    second: Falsche Richtung Sheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d088995549be80800000000000000
+      internalID: -8162416598519327355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee5bb6d0b521c60800000000000000
+      internalID: 7787386818876796569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a032578a0b939e30800000000000000
+      internalID: 4509118121450287270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a151167717b3f50800000000000000
+      internalID: 6862203214772902516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e224f2a9f3663a0800000000000000
+      internalID: -6672575866452431236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 8025
+        y: 5643
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d1d1d2e0b2f100800000000000000
+      internalID: 140369026631194860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ebf97e4cf0d6410800000000000000
+      internalID: 1471849991594032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46ad2a3ffbd15f0800000000000000
+      internalID: -784259706962418449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0ea6b7c3baefe0800000000000000
+      internalID: -1158916283749758082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78138a2a189947c0800000000000000
+      internalID: -4086567948712208261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8233d5e62fdd740800000000000000
+      internalID: 5178561702369896697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8025
+        y: 3762
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6363d9bc6fc6200800000000000000
+      internalID: 174785839936976569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63674c6dbe418e90800000000000000
+      internalID: -7025247368248859793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31d23aa7a10b060800000000000000
+      internalID: 6967097737568129979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204c7c828462ef10800000000000000
+      internalID: 2297509271777853479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d90a9a5ddce130800000000000000
+      internalID: 3597493583563313281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b400bf116d6e870800000000000000
+      internalID: 8711885901908691836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8025
+        y: 1881
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e8d41d99aeedf0800000000000000
+      internalID: -148995245531929195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5798ce67f21a80800000000000000
+      internalID: -8497457491710877710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d4e8c3378b5e70800000000000000
+      internalID: 9105019728143112195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a40738d51ba340800000000000000
+      internalID: 4876015039938865509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf2e6e1a3686e30800000000000000
+      internalID: 4496953774943960223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df89c85e1e6f59330800000000000000
+      internalID: 3717148517543483645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Falsche Richtung Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 8025
+        y: 0
+        width: 1605
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888733459fa025170800000000000000
+      internalID: 8165601140351924360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Falsche Richtung Sheet_5: 140369026631194860
+      Falsche Richtung Sheet_6: 1471849991594032739
+      Falsche Richtung Sheet_8: -1158916283749758082
+      Falsche Richtung Sheet_11: 174785839936976569
+      Falsche Richtung Sheet_20: 4876015039938865509
+      Falsche Richtung Sheet_22: 3717148517543483645
+      Falsche Richtung Sheet_19: 9105019728143112195
+      Falsche Richtung Sheet_4: -6672575866452431236
+      Falsche Richtung Sheet_0: -8162416598519327355
+      Falsche Richtung Sheet_3: 6862203214772902516
+      Falsche Richtung Sheet_17: -148995245531929195
+      Falsche Richtung Sheet_2: 4509118121450287270
+      Falsche Richtung Sheet_7: -784259706962418449
+      Falsche Richtung Sheet_9: -4086567948712208261
+      Falsche Richtung Sheet_14: 2297509271777853479
+      Falsche Richtung Sheet_18: -8497457491710877710
+      Falsche Richtung Sheet_10: 5178561702369896697
+      Falsche Richtung Sheet_16: 8711885901908691836
+      Falsche Richtung Sheet_21: 4496953774943960223
+      Falsche Richtung Sheet_13: 6967097737568129979
+      Falsche Richtung Sheet_1: 7787386818876796569
+      Falsche Richtung Sheet_23: 8165601140351924360
+      Falsche Richtung Sheet_15: 3597493583563313281
+      Falsche Richtung Sheet_12: -7025247368248859793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

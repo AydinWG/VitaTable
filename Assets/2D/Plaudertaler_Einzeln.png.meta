@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 2c50a0c4ac2b81148938ac5fda3de408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3613744710079905784
+    second: Plaudertaler_Einzeln_0
+  - first:
+      213: -8573192077190331631
+    second: Plaudertaler_Einzeln_1
+  - first:
+      213: -6029192424483812065
+    second: Plaudertaler_Einzeln_2
+  - first:
+      213: -8784477947364861092
+    second: Plaudertaler_Einzeln_3
+  - first:
+      213: 1981448514612137411
+    second: Plaudertaler_Einzeln_4
+  - first:
+      213: 8476845346550658242
+    second: Plaudertaler_Einzeln_5
+  - first:
+      213: -4839622742843785903
+    second: Plaudertaler_Einzeln_6
+  - first:
+      213: -2274035634858162359
+    second: Plaudertaler_Einzeln_7
+  - first:
+      213: -4336517312044616314
+    second: Plaudertaler_Einzeln_8
+  - first:
+      213: 4356186301990990165
+    second: Plaudertaler_Einzeln_9
+  - first:
+      213: 2060085559351786911
+    second: Plaudertaler_Einzeln_10
+  - first:
+      213: -5858544925901365525
+    second: Plaudertaler_Einzeln_11
+  - first:
+      213: -6872402002911486272
+    second: Plaudertaler_Einzeln_12
+  - first:
+      213: -6467790406077095074
+    second: Plaudertaler_Einzeln_13
+  - first:
+      213: -4135422459734160175
+    second: Plaudertaler_Einzeln_14
+  - first:
+      213: -4961827045197045393
+    second: Plaudertaler_Einzeln_15
+  - first:
+      213: 4751623495191340022
+    second: Plaudertaler_Einzeln_16
+  - first:
+      213: -5216634930252641630
+    second: Plaudertaler_Einzeln_17
+  - first:
+      213: 4494133929120895871
+    second: Plaudertaler_Einzeln_18
+  - first:
+      213: 2105565879806540545
+    second: Plaudertaler_Einzeln_19
+  - first:
+      213: -2691517145620801909
+    second: Plaudertaler_Einzeln_20
+  - first:
+      213: 8740616976037088214
+    second: Plaudertaler_Einzeln_21
+  - first:
+      213: 7475309684797344410
+    second: Plaudertaler_Einzeln_22
+  - first:
+      213: 909997201663403066
+    second: Plaudertaler_Einzeln_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8950
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8008db6255669ddc0800000000000000
+      internalID: -3613744710079905784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_1
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 8950
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11380ef7a37e50980800000000000000
+      internalID: -8573192077190331631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_2
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 8950
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8a281f61045ca0800000000000000
+      internalID: -6029192424483812065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_3
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 8950
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b901a59d3471680800000000000000
+      internalID: -8784477947364861092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7160
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8e260de48f7b10800000000000000
+      internalID: 1981448514612137411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_5
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 7160
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c433113eedc3a570800000000000000
+      internalID: 8476845346550658242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_6
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 7160
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df4edb1c436dcb0800000000000000
+      internalID: -4839622742843785903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_7
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 7160
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94703b173a00170e0800000000000000
+      internalID: -2274035634858162359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5370
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685bf350b7891d3c0800000000000000
+      internalID: -4336517312044616314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_9
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 5370
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55178919c58447c30800000000000000
+      internalID: 4356186301990990165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_10
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 5370
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d3314c6e4e69c10800000000000000
+      internalID: 2060085559351786911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_11
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 5370
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5bf60e6442bea0800000000000000
+      internalID: -5858544925901365525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3580
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce17c63ac250a0a0800000000000000
+      internalID: -6872402002911486272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_13
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3580
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53681cb4eacd36a0800000000000000
+      internalID: -6467790406077095074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_14
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 3580
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc8f5bee270c96c0800000000000000
+      internalID: -4135422459734160175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_15
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 3580
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61aa1e579c042bb0800000000000000
+      internalID: -4961827045197045393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a749c46821f140800000000000000
+      internalID: 4751623495191340022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_17
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1790
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa856b7b2aca97b0800000000000000
+      internalID: -5216634930252641630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_18
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1790
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7318426ffe5e5e30800000000000000
+      internalID: 4494133929120895871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_19
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 1790
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3d0d0309783d10800000000000000
+      internalID: 2105565879806540545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8616649a6fc5aad0800000000000000
+      internalID: -2691517145620801909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_21
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 0
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db807674d8ec4970800000000000000
+      internalID: 8740616976037088214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_22
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 0
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a026c6d82adb760800000000000000
+      internalID: 7475309684797344410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Einzeln_23
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 0
+        width: 1784
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a342fbf22a5f0ac00800000000000000
+      internalID: 909997201663403066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5d5b5f8614dc6cb4bbf84720e757e325
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plaudertaler_Einzeln_2: -6029192424483812065
+      Plaudertaler_Einzeln_12: -6872402002911486272
+      Plaudertaler_Einzeln_18: 4494133929120895871
+      Plaudertaler_Einzeln_14: -4135422459734160175
+      Plaudertaler_Einzeln_4: 1981448514612137411
+      Plaudertaler_Einzeln_6: -4839622742843785903
+      Plaudertaler_Einzeln_7: -2274035634858162359
+      Plaudertaler_Einzeln_5: 8476845346550658242
+      Plaudertaler_Einzeln_11: -5858544925901365525
+      Plaudertaler_Einzeln_21: 8740616976037088214
+      Plaudertaler_Einzeln_13: -6467790406077095074
+      Plaudertaler_Einzeln_3: -8784477947364861092
+      Plaudertaler_Einzeln_10: 2060085559351786911
+      Plaudertaler_Einzeln_1: -8573192077190331631
+      Plaudertaler_Einzeln_22: 7475309684797344410
+      Plaudertaler_Einzeln_0: -3613744710079905784
+      Plaudertaler_Einzeln_9: 4356186301990990165
+      Plaudertaler_Einzeln_19: 2105565879806540545
+      Plaudertaler_Einzeln_23: 909997201663403066
+      Plaudertaler_Einzeln_17: -5216634930252641630
+      Plaudertaler_Einzeln_15: -4961827045197045393
+      Plaudertaler_Einzeln_8: -4336517312044616314
+      Plaudertaler_Einzeln_20: -2691517145620801909
+      Plaudertaler_Einzeln_16: 4751623495191340022
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

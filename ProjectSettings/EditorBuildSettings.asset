@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Navigation/SpielauswahlMenue.unity
+    guid: fe6106f011bf9ad48bcf592683f18067
+  - enabled: 1
+    path: Assets/Scenes/Navigation/LevelAuswahl.unity
+    guid: 97e70c2ebc8a8a04e875eef0e6552a2f
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/Configmonitor.unity
+    guid: 9afb6cd7f6d3f994aa7aa85411f50396
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Spielauswertung.unity
+    guid: 004b250162b27264b98bc05cbea86178
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Obstsalat/Obstsalat.unity
+    guid: c3c08386985d94e4c9058028b962baf3
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Autofahren/Autofahren.unity
+    guid: fa9b75045e929f046a758712a0b8754a
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Kuchenspiel/Kuchenspiel.unity
+    guid: 1bcb049d4dc8c9f47a10173b3d3986cc
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Pferdespiel/Pferderennen.unity
+    guid: d3b489ad8bb98bc429018a4eb7d373f1
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Brunnenspiel/Brunnenspiel.unity
+    guid: d99a39567f5bc514085d5401ea769cd6
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Mathespiel/Wettrechnen.unity
+    guid: a688d59bf8307484987346759f8facb4
+  - enabled: 1
+    path: "Assets/Scenes/Navigation/Adminbereich/Einstellungsmen\xFC.unity"
+    guid: 2bf2971906f64dc4285f8ffdd4ace2f4
+  - enabled: 1
+    path: Assets/Scenes/Concepts/Pong/Scenes/Pong.unity
+    guid: 89a84548859e3b643b4fb27984dc2b0d
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Videotraining/Pre_Workout.unity
+    guid: 892ed45670dcf3d4a83a6eec7c4fd204
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Videotraining/Post_Workout.unity
+    guid: 04682b7e66fdfc24897df80c52609b77
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Musikspiel/Musik.unity
+    guid: 4dc9bc20237a42d4f9333a7fb6843ffc
+  - enabled: 1
+    path: Assets/Scenes/Concepts/Pong/Scenes/GameOver.unity
+    guid: b76946b4d9334a04ea4b0e38924fce75
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/SystemMenue.unity
+    guid: 778ecb524299c844ca083476704ae7ee
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/WlanMenue.unity
+    guid: 00256af8023548f43b5a4a6d5aac937c
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/PasswortMenue.unity
+    guid: 6ce47c34eec573949bb2226d3cd77131
+  - enabled: 1
+    path: Assets/Scenes/Spiele/Puzzle/Puzzle.unity
+    guid: 13a77f8b4edac8f4d88d4bd957a0c1d7
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/UpdateMenue.unity
+    guid: 62e207c388e89f943af354267d06bdb7
+  - enabled: 1
+    path: Assets/Scenes/Navigation/Adminbereich/InfoMenue.unity
+    guid: 30e7eb597c7275e45993c636e97002b4
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9d81490bb78b4f44a86c2942c7285c76, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: aa6483e74f2c54c4ca51dc63bc36fc74, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 42c149b4b24ba3a4883932a407649c3c, type: 2}

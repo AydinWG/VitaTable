@@ -1,0 +1,1516 @@
+fileFormatVersion: 2
+guid: 6f7310fddf0132747aac08cf47872e96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7587750555956037874
+    second: Timer_01_0
+  - first:
+      213: -8721302242374186387
+    second: Timer_01_1
+  - first:
+      213: 435523022353626314
+    second: Timer_01_2
+  - first:
+      213: -3026754377201378037
+    second: Timer_01_3
+  - first:
+      213: -5762549136707773663
+    second: Timer_01_4
+  - first:
+      213: -6608536428391909040
+    second: Timer_01_5
+  - first:
+      213: -1958329260792649882
+    second: Timer_01_6
+  - first:
+      213: -8206306448822446577
+    second: Timer_01_7
+  - first:
+      213: 5518280238168093412
+    second: Timer_01_8
+  - first:
+      213: 4673503368403331113
+    second: Timer_01_9
+  - first:
+      213: -4127263079074870777
+    second: Timer_01_10
+  - first:
+      213: -602256796073520385
+    second: Timer_01_11
+  - first:
+      213: -8672950678603705218
+    second: Timer_01_12
+  - first:
+      213: 2362664964252089603
+    second: Timer_01_13
+  - first:
+      213: -4033777344304317517
+    second: Timer_01_14
+  - first:
+      213: 5343354625407096063
+    second: Timer_01_15
+  - first:
+      213: 5883188169506575625
+    second: Timer_01_16
+  - first:
+      213: -1932191638938302017
+    second: Timer_01_17
+  - first:
+      213: 6860571497909958567
+    second: Timer_01_18
+  - first:
+      213: 5173446068987590705
+    second: Timer_01_19
+  - first:
+      213: 5030564449106723543
+    second: Timer_01_20
+  - first:
+      213: -8900508450001896511
+    second: Timer_01_21
+  - first:
+      213: 5050665833186134907
+    second: Timer_01_22
+  - first:
+      213: -9181591285340378678
+    second: Timer_01_23
+  - first:
+      213: -7636102488376628128
+    second: Timer_01_24
+  - first:
+      213: 7606713366279820982
+    second: Timer_01_25
+  - first:
+      213: -4189351404672270278
+    second: Timer_01_26
+  - first:
+      213: 8865826105989700178
+    second: Timer_01_27
+  - first:
+      213: -5382519435186874847
+    second: Timer_01_28
+  - first:
+      213: -8688895186790729371
+    second: Timer_01_29
+  - first:
+      213: -7053241031362315243
+    second: Timer_01_30
+  - first:
+      213: -2793153778197567560
+    second: Timer_01_31
+  - first:
+      213: -2024945733282577121
+    second: Timer_01_32
+  - first:
+      213: -7971114769794178798
+    second: Timer_01_33
+  - first:
+      213: -2705656676212454837
+    second: Timer_01_34
+  - first:
+      213: -1932424867566504714
+    second: Timer_01_35
+  - first:
+      213: -8313403019953468223
+    second: Timer_01_36
+  - first:
+      213: -5500769514306297453
+    second: Timer_01_37
+  - first:
+      213: -7707887978369343764
+    second: Timer_01_38
+  - first:
+      213: 5873738800739856236
+    second: Timer_01_39
+  - first:
+      213: -948062535122215588
+    second: Timer_01_40
+  - first:
+      213: 1596854263900259421
+    second: Timer_01_41
+  - first:
+      213: 6767395809139246451
+    second: Timer_01_42
+  - first:
+      213: 5683763184747441769
+    second: Timer_01_43
+  - first:
+      213: 4739789155032686569
+    second: Timer_01_44
+  - first:
+      213: 3201007427236266550
+    second: Timer_01_45
+  - first:
+      213: 6571983795514343673
+    second: Timer_01_46
+  - first:
+      213: -1758141166647883309
+    second: Timer_01_47
+  - first:
+      213: 8551998239102329211
+    second: Timer_01_48
+  - first:
+      213: -4491004659891930799
+    second: Timer_01_49
+  - first:
+      213: -5419211208639840989
+    second: Timer_01_50
+  - first:
+      213: -6445934656829991751
+    second: Timer_01_51
+  - first:
+      213: 3799119412620469952
+    second: Timer_01_52
+  - first:
+      213: -1162956132872619220
+    second: Timer_01_53
+  - first:
+      213: -5391570614244861854
+    second: Timer_01_54
+  - first:
+      213: -3392505238933682246
+    second: Timer_01_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Timer_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b7fb2215e2b690800000000000000
+      internalID: -7587750555956037874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_1
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a087861d5b7f680800000000000000
+      internalID: -8721302242374186387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_2
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac474ee91e94b0600800000000000000
+      internalID: 435523022353626314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_3
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9d8c2eeecef5d0800000000000000
+      internalID: -3026754377201378037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_4
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9cc967105700b0800000000000000
+      internalID: -5762549136707773663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_5
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b874c123c944a0800000000000000
+      internalID: -6608536428391909040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_6
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 11711
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676339b9ed92d4e0800000000000000
+      internalID: -1958329260792649882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d0ff73c75d1e80800000000000000
+      internalID: -8206306448822446577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e23117b3aed49c40800000000000000
+      internalID: 5518280238168093412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_9
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928a5426d8e9bd040800000000000000
+      internalID: 4673503368403331113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_10
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4825c81409b6c0800000000000000
+      internalID: -4127263079074870777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_11
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2197682aa54a7f0800000000000000
+      internalID: -602256796073520385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_12
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d75f1f4d73a780800000000000000
+      internalID: -8672950678603705218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_13
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 10038
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30db18d544fd9c020800000000000000
+      internalID: 2362664964252089603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf8b190e42508c0800000000000000
+      internalID: -4033777344304317517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49454b8b8672a40800000000000000
+      internalID: 5343354625407096063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_16
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905583e387845a150800000000000000
+      internalID: 5883188169506575625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_17
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94a1b01f97f25e0800000000000000
+      internalID: -1932191638938302017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_18
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b711bd65a53f50800000000000000
+      internalID: 6860571497909958567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_19
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13875a62ac5cbc740800000000000000
+      internalID: 5173446068987590705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_20
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 8365
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d207b0a6b720d540800000000000000
+      internalID: 5030564449106723543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb364db8ba0b7480800000000000000
+      internalID: -8900508450001896511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_22
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0342d0d1971640800000000000000
+      internalID: 5050665833186134907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_23
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e6744f5f649080800000000000000
+      internalID: -9181591285340378678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_24
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ca5df9e3d170690800000000000000
+      internalID: -7636102488376628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_25
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b613592189709960800000000000000
+      internalID: 7606713366279820982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_26
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30c935f71f6cd5c0800000000000000
+      internalID: -4189351404672270278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_27
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 6692
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a96e7ceddb90b70800000000000000
+      internalID: 8865826105989700178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126dc0d67137d45b0800000000000000
+      internalID: -5382519435186874847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_29
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bcb40dd7da6780800000000000000
+      internalID: -8688895186790729371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_30
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c7072d6aadd1e90800000000000000
+      internalID: -7053241031362315243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_31
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76e7fff69bc39d0800000000000000
+      internalID: -2793153778197567560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_32
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cf3e8592f5e3e0800000000000000
+      internalID: -2024945733282577121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_33
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116c828959e06190800000000000000
+      internalID: -7971114769794178798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_34
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 5019
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a41329693937ad0800000000000000
+      internalID: -2705656676212454837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4319542d5ae25e0800000000000000
+      internalID: -1932424867566504714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_36
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc8309effbd0ac80800000000000000
+      internalID: -8313403019953468223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_37
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a974654759a3b0800000000000000
+      internalID: -5500769514306297453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_38
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9ac8c8b4180590800000000000000
+      internalID: -7707887978369343764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_39
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2781a156b38150800000000000000
+      internalID: 5873738800739856236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_40
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d1f29b52ec7d2f0800000000000000
+      internalID: -948062535122215588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_41
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 3346
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c7d51e7a292610800000000000000
+      internalID: 1596854263900259421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375463a12ae9aed50800000000000000
+      internalID: 6767395809139246451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_43
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e605ea088c0ee40800000000000000
+      internalID: 5683763184747441769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_44
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd8ffbf1d17c140800000000000000
+      internalID: 4739789155032686569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_45
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320ecf9b434c6c20800000000000000
+      internalID: 3201007427236266550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_46
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f081413170643b50800000000000000
+      internalID: 6571983795514343673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_47
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d946f88ce3d997e0800000000000000
+      internalID: -1758141166647883309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_48
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 1673
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e579861dcea670800000000000000
+      internalID: 8551998239102329211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15974826e0fbca1c0800000000000000
+      internalID: -4491004659891930799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_50
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df4323e181bc4b0800000000000000
+      internalID: -5419211208639840989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_51
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 0
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d446e4907b86a0800000000000000
+      internalID: -6445934656829991751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_01_52
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 0
+        width: 1480
+        height: 1673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6a8882afe29b430800000000000000
+      internalID: 3799119412620469952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a867f008814e85469bb32e0790552ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Timer_01_52: 3799119412620469952
+      Timer_01_11: -602256796073520385
+      Timer_01_20: 5030564449106723543
+      Timer_01_13: 2362664964252089603
+      Timer_01_26: -4189351404672270278
+      Timer_01_16: 5883188169506575625
+      Timer_01_42: 6767395809139246451
+      Timer_01_38: -7707887978369343764
+      Timer_01_4: -5762549136707773663
+      Timer_01_10: -4127263079074870777
+      Timer_01_35: -1932424867566504714
+      Timer_01_47: -1758141166647883309
+      Timer_01_36: -8313403019953468223
+      Timer_01_17: -1932191638938302017
+      Timer_01_24: -7636102488376628128
+      Timer_01_3: -3026754377201378037
+      Timer_01_44: 4739789155032686569
+      Timer_01_39: 5873738800739856236
+      Timer_01_28: -5382519435186874847
+      Timer_01_49: -4491004659891930799
+      Timer_01_33: -7971114769794178798
+      Timer_01_37: -5500769514306297453
+      Timer_01_22: 5050665833186134907
+      Timer_01_34: -2705656676212454837
+      Timer_01_0: -7587750555956037874
+      Timer_01_19: 5173446068987590705
+      Timer_01_30: -7053241031362315243
+      Timer_01_29: -8688895186790729371
+      Timer_01_51: -6445934656829991751
+      Timer_01_14: -4033777344304317517
+      Timer_01_18: 6860571497909958567
+      Timer_01_48: 8551998239102329211
+      Timer_01_50: -5419211208639840989
+      Timer_01_2: 435523022353626314
+      Timer_01_9: 4673503368403331113
+      Timer_01_6: -1958329260792649882
+      Timer_01_45: 3201007427236266550
+      Timer_01_46: 6571983795514343673
+      Timer_01_23: -9181591285340378678
+      Timer_01_7: -8206306448822446577
+      Timer_01_12: -8672950678603705218
+      Timer_01_15: 5343354625407096063
+      Timer_01_43: 5683763184747441769
+      Timer_01_25: 7606713366279820982
+      Timer_01_8: 5518280238168093412
+      Timer_01_27: 8865826105989700178
+      Timer_01_31: -2793153778197567560
+      Timer_01_32: -2024945733282577121
+      Timer_01_40: -948062535122215588
+      Timer_01_41: 1596854263900259421
+      Timer_01_5: -6608536428391909040
+      Timer_01_21: -8900508450001896511
+      Timer_01_1: -8721302242374186387
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

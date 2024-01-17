@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 72308f2a52344594e8532a97e71fc688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 860015322481397028
+    second: Plaudertaler_Stapel_0
+  - first:
+      213: -1891551021786911613
+    second: Plaudertaler_Stapel_1
+  - first:
+      213: -4862673353903996609
+    second: Plaudertaler_Stapel_2
+  - first:
+      213: -5938266556553579289
+    second: Plaudertaler_Stapel_3
+  - first:
+      213: 108037587360507358
+    second: Plaudertaler_Stapel_4
+  - first:
+      213: -2969924907782669022
+    second: Plaudertaler_Stapel_5
+  - first:
+      213: 9052071043903945908
+    second: Plaudertaler_Stapel_6
+  - first:
+      213: 7312447505445436084
+    second: Plaudertaler_Stapel_7
+  - first:
+      213: 7384380768276445446
+    second: Plaudertaler_Stapel_8
+  - first:
+      213: 4847355624899061199
+    second: Plaudertaler_Stapel_9
+  - first:
+      213: 6289921702332791166
+    second: Plaudertaler_Stapel_10
+  - first:
+      213: 919154848475592077
+    second: Plaudertaler_Stapel_11
+  - first:
+      213: 7948666149316820820
+    second: Plaudertaler_Stapel_12
+  - first:
+      213: 1665933304220733264
+    second: Plaudertaler_Stapel_13
+  - first:
+      213: -8760357680875679483
+    second: Plaudertaler_Stapel_14
+  - first:
+      213: -1714104417869245717
+    second: Plaudertaler_Stapel_15
+  - first:
+      213: -943519483116667711
+    second: Plaudertaler_Stapel_16
+  - first:
+      213: -2928444965045978183
+    second: Plaudertaler_Stapel_17
+  - first:
+      213: -9012387951115237603
+    second: Plaudertaler_Stapel_18
+  - first:
+      213: -7867447219255269667
+    second: Plaudertaler_Stapel_19
+  - first:
+      213: -4924656756638506748
+    second: Plaudertaler_Stapel_20
+  - first:
+      213: -7413125759086872565
+    second: Plaudertaler_Stapel_21
+  - first:
+      213: 4921076470613088956
+    second: Plaudertaler_Stapel_22
+  - first:
+      213: -6253144415693044073
+    second: Plaudertaler_Stapel_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11450
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d85e511636feb00800000000000000
+      internalID: 860015322481397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_1
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 11450
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2dd71e5cdfb5e0800000000000000
+      internalID: -1891551021786911613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_2
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 11450
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318bc12950548cb0800000000000000
+      internalID: -4862673353903996609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_3
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 11450
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ba03770a079da0800000000000000
+      internalID: -5938266556553579289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9160
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed563010d93df7100800000000000000
+      internalID: 108037587360507358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_5
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 9160
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d770e1805b8c6d0800000000000000
+      internalID: -2969924907782669022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_6
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 9160
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7e7d87aa6f9d70800000000000000
+      internalID: 9052071043903945908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_7
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 9160
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba34c063480b7560800000000000000
+      internalID: 7312447505445436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6870
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f7534f279a7660800000000000000
+      internalID: 7384380768276445446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_9
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 6870
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a91a2244454340800000000000000
+      internalID: 4847355624899061199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_10
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 6870
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f09c767a4a4750800000000000000
+      internalID: 6289921702332791166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_11
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 6870
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8537fcf67e71cc00800000000000000
+      internalID: 919154848475592077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4580
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f733cbfb55f4e60800000000000000
+      internalID: 7948666149316820820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_13
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 4580
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc19183859e1710800000000000000
+      internalID: 1665933304220733264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_14
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 4580
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5015a068a15fc6680800000000000000
+      internalID: -8760357680875679483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_15
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 4580
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d9f81d174638e0800000000000000
+      internalID: -1714104417869245717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2290
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccbb227702f7e2f0800000000000000
+      internalID: -943519483116667711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_17
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 2290
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3722e1d21c57d0800000000000000
+      internalID: -2928444965045978183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_18
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 2290
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1704cb78e09de280800000000000000
+      internalID: -9012387951115237603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_19
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 2290
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a727007631d290800000000000000
+      internalID: -7867447219255269667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a5d395ca18abb0800000000000000
+      internalID: -4924656756638506748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_21
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 0
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08345606694f1990800000000000000
+      internalID: -7413125759086872565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_22
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 0
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1d6f1afc2b4440800000000000000
+      internalID: 4921076470613088956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaudertaler_Stapel_23
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 0
+        width: 1906
+        height: 2290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960665d84e5839a0800000000000000
+      internalID: -6253144415693044073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95660cbb8d1d0e84c84fc8e2772c1310
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plaudertaler_Stapel_2: -4862673353903996609
+      Plaudertaler_Stapel_5: -2969924907782669022
+      Plaudertaler_Stapel_17: -2928444965045978183
+      Plaudertaler_Stapel_16: -943519483116667711
+      Plaudertaler_Stapel_14: -8760357680875679483
+      Plaudertaler_Stapel_20: -4924656756638506748
+      Plaudertaler_Stapel_23: -6253144415693044073
+      Plaudertaler_Stapel_0: 860015322481397028
+      Plaudertaler_Stapel_6: 9052071043903945908
+      Plaudertaler_Stapel_15: -1714104417869245717
+      Plaudertaler_Stapel_4: 108037587360507358
+      Plaudertaler_Stapel_12: 7948666149316820820
+      Plaudertaler_Stapel_1: -1891551021786911613
+      Plaudertaler_Stapel_10: 6289921702332791166
+      Plaudertaler_Stapel_8: 7384380768276445446
+      Plaudertaler_Stapel_22: 4921076470613088956
+      Plaudertaler_Stapel_21: -7413125759086872565
+      Plaudertaler_Stapel_18: -9012387951115237603
+      Plaudertaler_Stapel_3: -5938266556553579289
+      Plaudertaler_Stapel_13: 1665933304220733264
+      Plaudertaler_Stapel_7: 7312447505445436084
+      Plaudertaler_Stapel_9: 4847355624899061199
+      Plaudertaler_Stapel_11: 919154848475592077
+      Plaudertaler_Stapel_19: -7867447219255269667
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

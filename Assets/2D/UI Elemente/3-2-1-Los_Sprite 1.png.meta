@@ -1,0 +1,1454 @@
+fileFormatVersion: 2
+guid: caa1ed866ebafb945b3cc59415784d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5934592557028426167
+    second: 3-2-1-Los_Sprite 1_0
+  - first:
+      213: -8024333141675941583
+    second: 3-2-1-Los_Sprite 1_1
+  - first:
+      213: -220056063364038995
+    second: 3-2-1-Los_Sprite 1_2
+  - first:
+      213: -2941470331415646508
+    second: 3-2-1-Los_Sprite 1_3
+  - first:
+      213: -8550235669196934807
+    second: 3-2-1-Los_Sprite 1_4
+  - first:
+      213: -5748973909858411179
+    second: 3-2-1-Los_Sprite 1_5
+  - first:
+      213: 3305461677044349002
+    second: 3-2-1-Los_Sprite 1_6
+  - first:
+      213: 1410811698942042055
+    second: 3-2-1-Los_Sprite 1_7
+  - first:
+      213: 7629038232691168397
+    second: 3-2-1-Los_Sprite 1_8
+  - first:
+      213: 2824529033727249386
+    second: 3-2-1-Los_Sprite 1_9
+  - first:
+      213: 6863023108161927518
+    second: 3-2-1-Los_Sprite 1_10
+  - first:
+      213: -7656157210799651587
+    second: 3-2-1-Los_Sprite 1_11
+  - first:
+      213: -7661325800079952984
+    second: 3-2-1-Los_Sprite 1_12
+  - first:
+      213: -270450834078313310
+    second: 3-2-1-Los_Sprite 1_13
+  - first:
+      213: 4011478172459502278
+    second: 3-2-1-Los_Sprite 1_14
+  - first:
+      213: -5448207425449867540
+    second: 3-2-1-Los_Sprite 1_15
+  - first:
+      213: -1584869422454393719
+    second: 3-2-1-Los_Sprite 1_16
+  - first:
+      213: 926726704635257580
+    second: 3-2-1-Los_Sprite 1_17
+  - first:
+      213: 3706642656360693694
+    second: 3-2-1-Los_Sprite 1_18
+  - first:
+      213: 634364467465198697
+    second: 3-2-1-Los_Sprite 1_19
+  - first:
+      213: -3253982825429181384
+    second: 3-2-1-Los_Sprite 1_20
+  - first:
+      213: 3392191056791969107
+    second: 3-2-1-Los_Sprite 1_21
+  - first:
+      213: -394605407281083177
+    second: 3-2-1-Los_Sprite 1_22
+  - first:
+      213: -8335190955732081185
+    second: 3-2-1-Los_Sprite 1_23
+  - first:
+      213: 218700951185343305
+    second: 3-2-1-Los_Sprite 1_0
+  - first:
+      213: 7171673171553796744
+    second: 3-2-1-Los_Sprite 1_1
+  - first:
+      213: -8037838493505937792
+    second: 3-2-1-Los_Sprite 1_2
+  - first:
+      213: 8501695856716597392
+    second: 3-2-1-Los_Sprite 1_3
+  - first:
+      213: -744516591135107659
+    second: 3-2-1-Los_Sprite 1_4
+  - first:
+      213: -7309934363027278146
+    second: 3-2-1-Los_Sprite 1_5
+  - first:
+      213: -2331202169662971480
+    second: 3-2-1-Los_Sprite 1_6
+  - first:
+      213: 670514765087647682
+    second: 3-2-1-Los_Sprite 1_7
+  - first:
+      213: -548498797069572469
+    second: 3-2-1-Los_Sprite 1_8
+  - first:
+      213: 8571845103674067194
+    second: 3-2-1-Los_Sprite 1_9
+  - first:
+      213: 7712620514269052928
+    second: 3-2-1-Los_Sprite 1_10
+  - first:
+      213: -7745982858885182010
+    second: 3-2-1-Los_Sprite 1_11
+  - first:
+      213: -3300281975210855823
+    second: 3-2-1-Los_Sprite 1_12
+  - first:
+      213: -7904330543662254136
+    second: 3-2-1-Los_Sprite 1_13
+  - first:
+      213: 4770145931154923578
+    second: 3-2-1-Los_Sprite 1_14
+  - first:
+      213: 3371494537133600090
+    second: 3-2-1-Los_Sprite 1_15
+  - first:
+      213: -1335054068232330425
+    second: 3-2-1-Los_Sprite 1_16
+  - first:
+      213: -5954277250604210511
+    second: 3-2-1-Los_Sprite 1_17
+  - first:
+      213: 2659749046390965774
+    second: 3-2-1-Los_Sprite 1_18
+  - first:
+      213: 1881827403960332363
+    second: 3-2-1-Los_Sprite 1_19
+  - first:
+      213: 456258541511554836
+    second: 3-2-1-Los_Sprite 1_20
+  - first:
+      213: 3552163978714495387
+    second: 3-2-1-Los_Sprite 1_21
+  - first:
+      213: 7514337739755762573
+    second: 3-2-1-Los_Sprite 1_22
+  - first:
+      213: 1192251392562472606
+    second: 3-2-1-Los_Sprite 1_23
+  - first:
+      213: -6866095304011792289
+    second: 3-2-1-Los_Sprite 1_24
+  - first:
+      213: 6909288981355768889
+    second: 3-2-1-Los_Sprite 1_25
+  - first:
+      213: 3591262340259599115
+    second: 3-2-1-Los_Sprite 1_26
+  - first:
+      213: 7793953381374531828
+    second: 3-2-1-Los_Sprite 1_27
+  - first:
+      213: 9069832902868832760
+    second: 3-2-1-Los_Sprite 1_28
+  - first:
+      213: -1682464703576091250
+    second: 3-2-1-Los_Sprite 1_29
+  - first:
+      213: -2552055423752000230
+    second: 3-2-1-Los_Sprite 1_30
+  - first:
+      213: -4495426261289250333
+    second: 3-2-1-Los_Sprite 1_31
+  - first:
+      213: 8343741691697293051
+    second: 3-2-1-Los_Sprite 1_32
+  - first:
+      213: 7212273600925219102
+    second: 3-2-1-Los_Sprite 1_33
+  - first:
+      213: -2189122158740613118
+    second: 3-2-1-Los_Sprite 1_34
+  - first:
+      213: 3981803373879815429
+    second: 3-2-1-Los_Sprite 1_35
+  - first:
+      213: 6036795162015478872
+    second: 3-2-1-Los_Sprite 1_36
+  - first:
+      213: 8345382633483472178
+    second: 3-2-1-Los_Sprite 1_37
+  - first:
+      213: 1262697496242502638
+    second: 3-2-1-Los_Sprite 1_38
+  - first:
+      213: -2552807598255178063
+    second: 3-2-1-Los_Sprite 1_39
+  - first:
+      213: 3512716874186595436
+    second: 3-2-1-Los_Sprite 1_40
+  - first:
+      213: 7552335391604201058
+    second: 3-2-1-Los_Sprite 1_41
+  - first:
+      213: -8391012851479194976
+    second: 3-2-1-Los_Sprite 1_42
+  - first:
+      213: -5038595157705439892
+    second: 3-2-1-Los_Sprite 1_43
+  - first:
+      213: -5785741417295249966
+    second: 3-2-1-Los_Sprite 1_44
+  - first:
+      213: 3452865460953405568
+    second: 3-2-1-Los_Sprite 1_45
+  - first:
+      213: 1720838162421291094
+    second: 3-2-1-Los_Sprite 1_46
+  - first:
+      213: 4258166883758369814
+    second: 3-2-1-Los_Sprite 1_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50466af2bab6b0a0800000000000000
+      internalID: -6866095304011792289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c2b38b8b9b2ef50800000000000000
+      internalID: 6909288981355768889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b035966321ab6d130800000000000000
+      internalID: 3591262340259599115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f898c46e4fa92c60800000000000000
+      internalID: 7793953381374531828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f195ab98f48edd70800000000000000
+      internalID: 9069832902868832760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 2640
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d634244fa6a8e0800000000000000
+      internalID: -1682464703576091250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d272c0d17459cd0800000000000000
+      internalID: -2552055423752000230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e154e512a90d91c0800000000000000
+      internalID: -4495426261289250333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6eb3f8cdceac370800000000000000
+      internalID: 8343741691697293051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193316b0a4271460800000000000000
+      internalID: 7212273600925219102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208545ebefcae91e0800000000000000
+      internalID: -2189122158740613118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 1760
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dee817215324730800000000000000
+      internalID: 3981803373879815429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854babd273107c350800000000000000
+      internalID: 6036795162015478872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0f771a41c0d370800000000000000
+      internalID: 8345382633483472178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3f4acea0068110800000000000000
+      internalID: 1262697496242502638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef416c30b929cd0800000000000000
+      internalID: -2552807598255178063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c996ac26dafb030800000000000000
+      internalID: 3512716874186595436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 880
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266dd2156094fc860800000000000000
+      internalID: 7552335391604201058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb4af138714ada0800000000000000
+      internalID: -5934592557028426167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e20bb587d3a090800000000000000
+      internalID: -8024333141675941583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef3802d2432fcf0800000000000000
+      internalID: -220056063364038995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deae92715ccd27d0800000000000000
+      internalID: -2941470331415646508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96174afb5f5775980800000000000000
+      internalID: -8550235669196934807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 6160
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d96e730ba8730b0800000000000000
+      internalID: -5748973909858411179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4835e6d1eb5fdd20800000000000000
+      internalID: 3305461677044349002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd760f3c5349310800000000000000
+      internalID: 1410811698942042055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845e6d2ad9cfd960800000000000000
+      internalID: 7629038232691168397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0711f03eb23720800000000000000
+      internalID: 2824529033727249386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f94fa72b5e3f50800000000000000
+      internalID: 6863023108161927518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 5280
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cdb1b49ddfb590800000000000000
+      internalID: -7656157210799651587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f2b9b6c08da590800000000000000
+      internalID: -7661325800079952984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dd89366a2f3cf0800000000000000
+      internalID: -270450834078313310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8ea5e422aba730800000000000000
+      internalID: 4011478172459502278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce64a6f56341464b0800000000000000
+      internalID: -5448207425449867540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843a3348a9610ae0800000000000000
+      internalID: -1584869422454393719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 4400
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce227a127056cdc00800000000000000
+      internalID: 926726704635257580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf70b97bd3a07330800000000000000
+      internalID: 3706642656360693694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c94654f17bdc800800000000000000
+      internalID: 634364467465198697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c52115cd787d2d0800000000000000
+      internalID: -3253982825429181384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d97562bcb731f20800000000000000
+      internalID: 3392191056791969107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc00980974168af0800000000000000
+      internalID: -394605407281083177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 3520
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd56a8cccf3735c80800000000000000
+      internalID: -8335190955732081185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a258d1e4422d8b80800000000000000
+      internalID: -8391012851479194976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c6f15660531ab0800000000000000
+      internalID: -5038595157705439892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddf9dbc5dae4bfa0800000000000000
+      internalID: -5785741417295249966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088d759b7da0bef20800000000000000
+      internalID: 3452865460953405568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589e0bf035a1e710800000000000000
+      internalID: 1720838162421291094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2-1-Los_Sprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 0
+        width: 1924
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cefb4583c081b30800000000000000
+      internalID: 4258166883758369814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a5c3322ac435644391f0dd60085167e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3-2-1-Los_Sprite 1_0: -5934592557028426167
+      3-2-1-Los_Sprite 1_17: 926726704635257580
+      3-2-1-Los_Sprite 1_26: 3591262340259599115
+      3-2-1-Los_Sprite 1_24: -6866095304011792289
+      3-2-1-Los_Sprite 1_6: 3305461677044349002
+      3-2-1-Los_Sprite 1_23: -8335190955732081185
+      3-2-1-Los_Sprite 1_35: 3981803373879815429
+      3-2-1-Los_Sprite 1_30: -2552055423752000230
+      3-2-1-Los_Sprite 1_28: 9069832902868832760
+      3-2-1-Los_Sprite 1_32: 8343741691697293051
+      3-2-1-Los_Sprite 1_7: 1410811698942042055
+      3-2-1-Los_Sprite 1_13: -270450834078313310
+      3-2-1-Los_Sprite 1_1: -8024333141675941583
+      3-2-1-Los_Sprite 1_39: -2552807598255178063
+      3-2-1-Los_Sprite 1_9: 2824529033727249386
+      3-2-1-Los_Sprite 1_5: -5748973909858411179
+      3-2-1-Los_Sprite 1_44: -5785741417295249966
+      3-2-1-Los_Sprite 1_8: 7629038232691168397
+      3-2-1-Los_Sprite 1_31: -4495426261289250333
+      3-2-1-Los_Sprite 1_2: -220056063364038995
+      3-2-1-Los_Sprite 1_40: 3512716874186595436
+      3-2-1-Los_Sprite 1_29: -1682464703576091250
+      3-2-1-Los_Sprite 1_34: -2189122158740613118
+      3-2-1-Los_Sprite 1_3: -2941470331415646508
+      3-2-1-Los_Sprite 1_16: -1584869422454393719
+      3-2-1-Los_Sprite 1_43: -5038595157705439892
+      3-2-1-Los_Sprite 1_15: -5448207425449867540
+      3-2-1-Los_Sprite 1_38: 1262697496242502638
+      3-2-1-Los_Sprite 1_21: 3392191056791969107
+      3-2-1-Los_Sprite 1_14: 4011478172459502278
+      3-2-1-Los_Sprite 1_45: 3452865460953405568
+      3-2-1-Los_Sprite 1_46: 1720838162421291094
+      3-2-1-Los_Sprite 1_47: 4258166883758369814
+      3-2-1-Los_Sprite 1_37: 8345382633483472178
+      3-2-1-Los_Sprite 1_25: 6909288981355768889
+      3-2-1-Los_Sprite 1_10: 6863023108161927518
+      3-2-1-Los_Sprite 1_19: 634364467465198697
+      3-2-1-Los_Sprite 1_42: -8391012851479194976
+      3-2-1-Los_Sprite 1_4: -8550235669196934807
+      3-2-1-Los_Sprite 1_20: -3253982825429181384
+      3-2-1-Los_Sprite 1_36: 6036795162015478872
+      3-2-1-Los_Sprite 1_12: -7661325800079952984
+      3-2-1-Los_Sprite 1_18: 3706642656360693694
+      3-2-1-Los_Sprite 1_22: -394605407281083177
+      3-2-1-Los_Sprite 1_41: 7552335391604201058
+      3-2-1-Los_Sprite 1_33: 7212273600925219102
+      3-2-1-Los_Sprite 1_27: 7793953381374531828
+      3-2-1-Los_Sprite 1_11: -7656157210799651587
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

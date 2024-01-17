@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: 38768bdfd86892d4d8a236a8c92d6510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6300140014123008557
+    second: Ende_Sprite_0
+  - first:
+      213: 9115144255204390561
+    second: Ende_Sprite_1
+  - first:
+      213: -754006034565337891
+    second: Ende_Sprite_2
+  - first:
+      213: 2882926897131549597
+    second: Ende_Sprite_3
+  - first:
+      213: 15646412363271685
+    second: Ende_Sprite_4
+  - first:
+      213: -3222106229265539719
+    second: Ende_Sprite_5
+  - first:
+      213: 415420994819682149
+    second: Ende_Sprite_6
+  - first:
+      213: -8032566934738172707
+    second: Ende_Sprite_7
+  - first:
+      213: -3125827618162263139
+    second: Ende_Sprite_8
+  - first:
+      213: -3687787963374254807
+    second: Ende_Sprite_9
+  - first:
+      213: -3626062380770400858
+    second: Ende_Sprite_10
+  - first:
+      213: -2321292272249974487
+    second: Ende_Sprite_11
+  - first:
+      213: 2394280456589906210
+    second: Ende_Sprite_12
+  - first:
+      213: -5058419487546941612
+    second: Ende_Sprite_13
+  - first:
+      213: -6856448524039701975
+    second: Ende_Sprite_14
+  - first:
+      213: 7516795600342957666
+    second: Ende_Sprite_15
+  - first:
+      213: -2083459116013864184
+    second: Ende_Sprite_16
+  - first:
+      213: -6042767507016089490
+    second: Ende_Sprite_17
+  - first:
+      213: -2020124456946481938
+    second: Ende_Sprite_18
+  - first:
+      213: 8677342640625982407
+    second: Ende_Sprite_19
+  - first:
+      213: -740636335076774022
+    second: Ende_Sprite_20
+  - first:
+      213: 8776914534973760002
+    second: Ende_Sprite_21
+  - first:
+      213: -3343587055836691912
+    second: Ende_Sprite_22
+  - first:
+      213: 6279720472358344792
+    second: Ende_Sprite_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ende_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2466
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22c60996f79e6750800000000000000
+      internalID: 6300140014123008557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 2466
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a676efe76f7f7e70800000000000000
+      internalID: 9115144255204390561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 7026
+        y: 2466
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6b37a18b3985f0800000000000000
+      internalID: -754006034565337891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 2466
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f1f01db6320820800000000000000
+      internalID: 2882926897131549597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 11710
+        y: 2466
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e0ce24456973000800000000000000
+      internalID: 15646412363271685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ddd08b477c843d0800000000000000
+      internalID: -3222106229265539719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f677c913fd3c500800000000000000
+      internalID: 415420994819682149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd402646ee6968090800000000000000
+      internalID: -8032566934738172707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 7026
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3556b754de94d0800000000000000
+      internalID: -3125827618162263139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925cd14d26852dcc0800000000000000
+      internalID: -3687787963374254807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 11710
+        y: 1644
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e5c4f973adadc0800000000000000
+      internalID: -3626062380770400858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9215ea42afc19cfd0800000000000000
+      internalID: -2321292272249974487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22193bbc3613a3120800000000000000
+      internalID: 2394280456589906210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd9d7d642ecc9b0800000000000000
+      internalID: -5058419487546941612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 7026
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92abcd7f46009d0a0800000000000000
+      internalID: -6856448524039701975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e39a7d5c5015860800000000000000
+      internalID: 7516795600342957666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 11710
+        y: 822
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bb1fdf8f01613e0800000000000000
+      internalID: -2083459116013864184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608804e7f6c32ca0800000000000000
+      internalID: -6042767507016089490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee440ad628317f3e0800000000000000
+      internalID: -2020124456946481938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9cd8382d1c6870800000000000000
+      internalID: 8677342640625982407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 7026
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f60046d2bb8b5f0800000000000000
+      internalID: -740636335076774022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e219744dddc970800000000000000
+      internalID: 8776914534973760002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ende_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 11710
+        y: 0
+        width: 2342
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832824da9413991d0800000000000000
+      internalID: -3343587055836691912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18974a73a09d8744a8d1bf8afe310fd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ende_Sprite_3: 2882926897131549597
+      Ende_Sprite_11: -2321292272249974487
+      Ende_Sprite_13: -5058419487546941612
+      Ende_Sprite_16: -2083459116013864184
+      Ende_Sprite_7: -8032566934738172707
+      Ende_Sprite_21: 8776914534973760002
+      Ende_Sprite_1: 9115144255204390561
+      Ende_Sprite_0: 6300140014123008557
+      Ende_Sprite_6: 415420994819682149
+      Ende_Sprite_2: -754006034565337891
+      Ende_Sprite_5: -3222106229265539719
+      Ende_Sprite_18: -2020124456946481938
+      Ende_Sprite_20: -740636335076774022
+      Ende_Sprite_9: -3687787963374254807
+      Ende_Sprite_15: 7516795600342957666
+      Ende_Sprite_4: 15646412363271685
+      Ende_Sprite_19: 8677342640625982407
+      Ende_Sprite_12: 2394280456589906210
+      Ende_Sprite_14: -6856448524039701975
+      Ende_Sprite_22: -3343587055836691912
+      Ende_Sprite_8: -3125827618162263139
+      Ende_Sprite_17: -6042767507016089490
+      Ende_Sprite_10: -3626062380770400858
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
